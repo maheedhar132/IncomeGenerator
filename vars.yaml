@@ -1,0 +1,13 @@
+---
+
+siteUrl: 'https://lotus247.com/d/index.html#/'
+usernameBox: "/html/body/div[1]/div/ng-container/div/div/div[2]/form/fieldset/div[1]/input"
+passwdBox: "/html/body/div[1]/div/ng-container/div/div/div[2]/form/fieldset/div[2]/input"
+loginButton: "/html/body/div[1]/div/ng-container/div/div/div[2]/form/fieldset/button"
+balance: "/html/body/div[1]/div/div/div/div[3]/div[1]/apl-toggleable-list-title/div/span/span"
+exchangeGame: "/html/body/div/div/div/div/div[1]/aside/nav/div/ul[2]/li[7]/a"
+theGame: "/html/body/div/div/div/div/div[2]/ng-view/div/div[1]/div/table/tbody/tr[25]/td[1]/a"
+layButton: "/html/body/div/div/div/div/div[2]/ng-view/div/div/apl-markets-view/div/div/div/apl-market-group/div[1]/div/div/div/table/tbody/tr[3]/td[5]"
+bet100: "/html/body/div/div/div/div/div[3]/div[3]/div[2]/ul[2]/li/div/div/div/div/form/div[1]/ul/li/ul/li/div/div[2]/div[1]/button[1]"
+bet500: "/html/body/div/div/div/div/div[3]/div[3]/div[2]/ul[2]/li/div/div/div/div/form/div[1]/ul/li/ul/li/div/div[2]/div[1]/button[2]"
+placeBets: "/html/body/div/div/div/div/div[3]/div[3]/div[2]/ul[2]/li/div/div/div/div/form/div[2]/button[1]"
